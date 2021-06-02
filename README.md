@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# REACT-JSX-ECOMMERCE APP
+
+This project is developed as part of the React jsx learning.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
